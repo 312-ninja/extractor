@@ -1,0 +1,2 @@
+# extractor.sh
+simple extractor

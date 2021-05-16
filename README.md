@@ -1,2 +1,3 @@
 # extractor.sh
-simple extractor
+
+simple RAR extractor and cleanup.
